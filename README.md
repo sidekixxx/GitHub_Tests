@@ -1,2 +1,2 @@
-GItHub Desktop App Test
+GitHub Desktop App Test
 Merge Test
